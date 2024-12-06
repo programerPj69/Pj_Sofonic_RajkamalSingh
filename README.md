@@ -96,8 +96,7 @@ Feel free to adjust any part of this template to better suit your needs!
 
 ## Views
 <img src="https://i.ibb.co/XSytVRN/Screenshot-from-2024-12-07-02-37-08.png" alt="Screenshot-from-2024-12-07-02-37-08" border="0">
-![10](https://ibb.co/hM5F8ZG)
-![11](https://ibb.co/TrW05HL)
-![2](https://ibb.co/0nSYypd)
-![3](https://ibb.co/LkLP3L9)
-![4](https://ibb.co/HzfsCxz)
+<img src="https://i.ibb.co/yRTFsYz/Screenshot-from-2024-12-07-02-37-22.png" alt="Screenshot-from-2024-12-07-02-37-22" border="0">)
+<img src="https://i.ibb.co/PtDW85Q/Screenshot-from-2024-12-07-02-37-30.png" alt="Screenshot-from-2024-12-07-02-37-30" border="0">)
+<img src="https://i.ibb.co/hgj2Fxt/Screenshot-from-2024-12-07-02-37-39.png" alt="Screenshot-from-2024-12-07-02-37-39" border="0">
+
