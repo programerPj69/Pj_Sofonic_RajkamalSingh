@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Feel free to adjust any part of this template to better suit your needs!
 
 ## Views
-![1](https://ibb.co/GcsRFSB)
+<img src="https://i.ibb.co/XSytVRN/Screenshot-from-2024-12-07-02-37-08.png" alt="Screenshot-from-2024-12-07-02-37-08" border="0">
 ![10](https://ibb.co/hM5F8ZG)
 ![11](https://ibb.co/TrW05HL)
 ![2](https://ibb.co/0nSYypd)
